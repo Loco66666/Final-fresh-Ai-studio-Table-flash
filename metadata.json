@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant QR Menu & Order Manager",
+  "description": "A complete dashboard and client interface for managing restaurant menus, table QR codes, customer orders, reviews, and statistics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
